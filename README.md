@@ -1,6 +1,6 @@
 # Student Enrollment System
 
-This is a simple command-line application for managing a university's student enrollment system. It's built with Python and uses SQLite for the database. This project was created to practice fundamental database concepts like schema design, normalization, and SQL querying.
+This is a simple command line application for managing a university's student enrollment system. It's built with Python and uses SQLite for the database.
 
 ---
 
