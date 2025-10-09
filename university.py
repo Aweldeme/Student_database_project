@@ -1,4 +1,4 @@
-# This file runs our database project.
+# This file runs our database project
 import sqlite3
 
 # This function runs the SQL code from our schema.sql file.
