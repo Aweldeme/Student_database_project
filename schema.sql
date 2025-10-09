@@ -1,4 +1,4 @@
--- This file makes the tables for our database.
+-- This file makes the tables for our database
 
 -- Deletes old tables so we can start fresh.
 DROP TABLE IF EXISTS Enrollments;
