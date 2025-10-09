@@ -6,7 +6,7 @@ This is a simple command-line application for managing a university's student en
 
 ## Features
 
-* Creates a complete database schema from a `.sql` file.
+* Creates a complete database schema from a .sql file.
 * Adds new students and courses to the database.
 * Enrolls students in available courses.
 * Queries the database to find which courses a specific student is taking.
