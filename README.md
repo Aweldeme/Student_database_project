@@ -26,9 +26,9 @@ This is a simple command-line application for managing a university's student en
 
 2.  Clone the repository:
     ```bash
-    git clone [https://github.com/YourUsername/student-database-project.git](https://github.com/YourUsername/student-database-project.git)
+    git clone [https://github.com/YourUsername/student-database-project.git](https://github.com/Aweldeme/student-database-project.git)
     ```
-    (Replace `YourUsername` with your actual GitHub username)
+    
 
 3.  Navigate to the project directory:
     ```bash
