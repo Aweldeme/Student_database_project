@@ -49,17 +49,17 @@ This is a simple command-line application for managing a university's student en
 The database consists of four tables:
 
 * Students: Stores student information.
-    * `student_id` (Primary Key)
-    * `first_name`
-    * `last_name`
-    * `email`
+    * student_id (Primary Key)
+    * first_name
+    * last_name
+    * email
 * Courses: Stores course information.
-    * `course_id` (Primary Key)
-    * `course_name`
-    * `credits`
+    * course_id (Primary Key)
+    * course_name
+    * credits
 * Professors: Stores professor information (can be expanded later).
-    * `professor_id` (Primary Key)
+    * professor_id (Primary Key)
 * Enrollments: A linking table that connects students to the courses they are enrolled in.
-    * `enrollment_id` (Primary Key)
-    * `student_id` (Foreign Key)
-    * `course_id` (Foreign Key)
+    * enrollment_id (Primary Key)
+    * student_id (Foreign Key)
+    * course_id (Foreign Key)
