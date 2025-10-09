@@ -4,7 +4,7 @@ This is a simple command-line application for managing a university's student en
 
 ---
 
-## 🚀 Features
+## Features
 
 * Creates a complete database schema from a `.sql` file.
 * Adds new students and courses to the database.
@@ -13,14 +13,14 @@ This is a simple command-line application for managing a university's student en
 
 ---
 
-## ⚙️ Technologies Used
+## Technologies Used
 
 * **Language:** Python 3
 * **Database:** SQLite 3
 
 ---
 
-## ▶️ How to Run
+## How to Run
 
 1.  **Prerequisites:** Make sure you have Python 3 installed on your computer.
 
@@ -44,7 +44,7 @@ This is a simple command-line application for managing a university's student en
 
 ---
 
-## 🏛️ Database Schema
+## Database Schema
 
 The database consists of four tables:
 
