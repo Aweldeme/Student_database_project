@@ -15,8 +15,8 @@ This is a simple command line application for managing a university's student en
 
 ## Technologies Used
 
-* Language: Python 3
-* Database: SQLite 3
+* Language: Python 3.
+* Database: SQLite 3.
 
 ---
 
